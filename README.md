@@ -39,7 +39,5 @@ Step into directory you want to create project and generate project with cookiec
 
 ```bash
 cd /path/to/directory
-cookiecutter https://github.com/django-stars/backend-skeleton
+cookiecutter https://github.com/4bdu1/django-backend-skeleton
 ```
-
-Answer the questions.
